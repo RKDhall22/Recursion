@@ -25,5 +25,5 @@ This repository covers recursive techniques and problems - starting from basic r
 
 ## 📚 References
 
-- Striver's A2Z DSA Playlist - Recusrion Section
+- Striver's A2Z DSA Playlist - Recursion Section
   
